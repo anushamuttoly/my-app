@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="DHWANI" src="https://m.media-amazon.com/images/M/MV5BNjMxMzMwMzQtZDAzZC00NGMzLTk2OWMtNjkzMTY5NTU1NDJiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SY1000_CR0,0,984,1000_AL_.jpg">
+    <HelloWorld msg="HelloWorld"/>
   </div>
 </template>
 
@@ -22,7 +22,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #00ff00;
   margin-top: 60px;
 }
 </style>
